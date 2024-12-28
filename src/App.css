@@ -25,6 +25,18 @@ body {
   padding: 0;
 }
 
+.app-heading {
+  font-size: 32px;
+  font-weight: bold;
+  color: #191a1b;
+  margin-bottom: 30px;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  border-bottom: 3px solid #626364;
+  display: inline-block;
+  padding-bottom: 10px;
+}
+
 .calc-container {
   display: flex;
   justify-content: center;

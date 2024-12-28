@@ -38,6 +38,7 @@ function App() {
     <div className="App">
       <div className="calc-container">
         <div className="calculator">
+          <div className="app-heading">EMI Calculator</div>
           <h2>Principal Loan Amount</h2>
           <input
             onChange={handleChange}
